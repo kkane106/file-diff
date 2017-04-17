@@ -1,0 +1,5 @@
+apple
+apples
+banana
+dates
+coconut
